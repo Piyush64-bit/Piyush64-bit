@@ -39,19 +39,20 @@ I'm a **Computer Science student** at GIT, Jaipur & an aspiring **Software Devel
 
 ## 📫 Let's Connect!
 
-- 📎 [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/piyush64bit)  
+- 📧 Email: [piiyush.sonii@outlook.com](mailto:piiyush.sonii@outlook.com)  
 - 🌐 Portfolio: Coming soon — one pixel at a time  
-- 📧 Email: [your-email@example.com] *(if you wanna flex it)*
 
 ---
 
 ## 📊 My GitHub Stats
 
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=tokyonight)
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=piyush64-bit&theme=tokyonight&hide_border=true)
 
 ---
 
 > *"Code like it's your last push before the deadline."* — Every CS student ever 😤
-
