@@ -1,35 +1,57 @@
-<h1 align="center">Hey there 👋, I'm Piyush</h1>
-<h3 align="center">🚀 Future Software Developer | Full Stack Java Intern @ Groot Academy</h3>
+# 👋 Hey there, I'm Piyush!
+
+I'm a **Computer Science student** at GIT, Jaipur & an aspiring **Software Development Engineer (SDE)**. Currently grinding my way through Full Stack Java Development at **Groot Academy**, and vibing with everything from clean code to chaotic debugging sessions 😵‍💫.
 
 ---
 
-🌱 I’m currently learning **JavaScript, MySQL, and React.js**  
-💻 I’m working on cool projects in **Java Full Stack Development**  
-🎯 2025 Goals:  
-- ✅ Crack the Google Cloud Arcade Ultimate Milestone  
-- 💡 Build dope real-world apps  
-- 📚 Level up my DSA & Backend skills  
+## 🚀 What I'm Up To
 
-🎧 Vibing to: Indian Hip-Hop (Kr$na, Divine, Seedhe Maut)  
-📍 Jaipur | B.Tech @ GIT
+🌱 **Learning**:  
+- `JavaScript` (core + advanced)  
+- `React.js` for front-end magic  
+- `MySQL` & `MongoDB` for database wizardry  
+- `Spring` & `Hibernate` for back-end mastery  
 
----
-
-### 🔧 Tech Stack
-- 💻 Languages: C, C++, JavaScript, Core Java
-- 🌐 Frontend: HTML, CSS, Bootstrap, Tailwind, React.js
-- 🛠️ Backend: Java (Spring, Hibernate)
-- 🗃️ Database: MySQL, MongoDB
-- ⚙️ Tools: Git, GitHub, VS Code, Figma
+💻 **Current Focus**:  
+- Building real-world projects to level up  
+- Exploring open-source collabs  
+- Earning skill badges through the Google Cloud Arcade 🎮
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyush64-bit&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush64-bit&theme=radical" />
-</p>
+## 🧠 Tech Stack I Know
+
+- Frontend: `HTML` | `CSS` | `Bootstrap` | `Tailwind` | `JavaScript`
+- Backend: `Core Java` | `Advanced Java` | `Spring Boot` (learning)
+- Databases: `MySQL` | `MongoDB`
+- Tools: `Git` | `GitHub` | `Figma`
 
 ---
 
-> “Code. Sleep. Rap. Repeat.” – Me, probably. 😎
+## 💡 A Little More About Me
+
+🎯 I love turning complex problems into simple, beautiful solutions.  
+🎵 Indian hip-hop runs in my headphones while I code — shoutout to **Kr$na, Divine, Seedhe Maut** 🔥  
+💬 Ask me about anything tech, music, or why semicolons always betray me.  
+📅 Born on: 30th August 2003 — aka still young and dangerously curious 😈
+
+---
+
+## 📫 Let's Connect!
+
+- 📎 [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
+- 🌐 Portfolio: Coming soon — one pixel at a time  
+- 📧 Email: [your-email@example.com] *(if you wanna flex it)*
+
+---
+
+## 📊 My GitHub Stats
+
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=tokyonight)
+
+---
+
+> *"Code like it's your last push before the deadline."* — Every CS student ever 😤
+
