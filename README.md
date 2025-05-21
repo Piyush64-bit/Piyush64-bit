@@ -74,7 +74,6 @@ Currently brewing full-stack skills at **Groot Academy**, turning ☕ into code 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=piyush64-bit&theme=tokyonight&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=piyush64-bit&color=blueviolet&style=flat)
 
 
 ---
