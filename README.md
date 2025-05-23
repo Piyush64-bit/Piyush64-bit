@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 I'm a **Computer Science student** at GIT, Jaipur & a soon-to-be **Software Development Engineer (SDE)**.  
-Currently brewing full-stack skills at **Groot Academy**, turning ☕ into code and bugs into features 🐞💻.
+Currently brewing full-stack skills at **Groot Software**, turning ☕ into code and bugs into features 🐞💻.
 
 ---
 
