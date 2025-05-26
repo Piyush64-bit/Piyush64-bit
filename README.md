@@ -48,25 +48,27 @@ Currently brewing full-stack skills at **Groot Software**, turning ☕ into code
 
 ---
 
-🧠 More Technical Skills
+## 🧠 More Technical Skills
 
-🔄 Git branching, merging & GitHub workflow
-🧪 REST API design, JWT auth, error handling
-⚙️ Postman, IntelliJ, VS Code (power-user setup)
-☁️ GCP basics, Firebase, GitHub Pages, Render
-🧱 MVC & layered architecture (Spring + React)
-🐛 Chrome DevTools, React DevTools, MySQL query tuning
-🧹 Clean code, debugging, basic CI/CD (GitHub Actions)
-🧠 Agile workflow, team collaboration (Trello, GitHub Projects)
+- 🔄 Git branching, merging & GitHub workflow  
+- 🧪 REST API design, JWT auth, error handling  
+- ⚙️ Postman, IntelliJ, VS Code (power-user setup)  
+- ☁️ GCP basics, Firebase, GitHub Pages, Render  
+- 🧱 MVC & layered architecture (Spring + React)  
+- 🐛 Chrome DevTools, React DevTools, MySQL query tuning  
+- 🧹 Clean code, debugging, basic CI/CD (GitHub Actions)  
+- 🧠 Agile workflow, team collaboration (Trello, GitHub Projects)
 
 ---
 
-## 🎤 More About Me (a.k.a my lore)
+## 🎤 About Me — The Dev Behind the Code
 
 🎯 I love turning complex problems into clean, beautiful solutions.  
 🎧 Coding with Indian hip-hop in the background — shoutout to **Kr$na, Divine, Seedhe Maut** 🔥  
 💬 Hit me up for tech chats, code rants, or lyric breakdowns.  
-📅 Born: **30th August 2003** — certified Gen Z dev 🧃👨‍💻
+📅 Born: **30th August 2003** — certified Gen Z dev 🧃👨‍💻  
+☕ Fuel: One part caffeine, two parts curiosity  
+🚗 Gearhead at heart — when I’m not coding, I’m geeking out on engines
 
 ---
 
