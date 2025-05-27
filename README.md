@@ -61,17 +61,6 @@ Currently brewing full-stack skills at **Groot Software**, turning ☕ into code
 
 ---
 
-## 🎤 About Me — The Dev Behind the Code
-
-🎯 I love turning complex problems into clean, beautiful solutions.  
-🎧 Coding with Indian hip-hop in the background — shoutout to **Kr$na, Divine, Seedhe Maut** 🔥  
-💬 Hit me up for tech chats, code rants, or lyric breakdowns.  
-📅 Born: **30th August 2003** — certified Gen Z dev 🧃👨‍💻  
-☕ Fuel: One part caffeine, two parts curiosity  
-🚗 Gearhead at heart — when I’m not coding, I’m geeking out on engines
-
----
-
 ## 📫 Wanna Connect?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/piyush64bit)
