@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Hey%20There!%20I'm%20Piyush%20🚀&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 I'm a **Computer Science student** at GIT, Jaipur & a soon-to-be **Software Development Engineer (SDE)**.  
 Currently brewing full-stack skills at **Groot Software**, turning ☕ into code and bugs into features 🐞💻.
