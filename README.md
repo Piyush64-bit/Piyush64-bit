@@ -154,9 +154,9 @@ Completed the **Google Cloud Arcade Facilitator Program – 2025 Cohort**
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=react" alt="Piyush's GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=react" alt="Piyush's GitHub Stats" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=react" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=react" alt="Top Languages" height="150"/>
 
 </div>
 
