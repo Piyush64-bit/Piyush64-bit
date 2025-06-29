@@ -120,7 +120,7 @@ Completed the **Google Cloud Arcade Facilitator Program – 2025 Cohort**
 
 ---
 
-## 📫 Wanna Connect?
+## 🌐 Let’s Link Up!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush64bit" target="_blank">
