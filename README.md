@@ -1,126 +1,65 @@
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Hey%20There!%20I'm%20Piyush%20🚀&fontSize=32&fontColor=ffffff&animation=fadeIn" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Hey%20There!%20I'm%20Piyush%20🚀&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 </p>
 
 <p align="center">
-  I'm a <strong>Freelance Web Developer</strong>, <strong>Computer Science student</strong> at GIT, Jaipur, and a soon-to-be <strong>Software Development Engineer (SDE)</strong>.<br/>
-  Currently brewing full-stack skills at <strong>Groot Software</strong>, turning ☕ into code and bugs into features 🐞💻.
+  <strong>Java Full Stack Developer</strong> | <strong>CS Student @ GIT Jaipur</strong> | Future <strong>SDE</strong><br/>
+  Currently turning ☕ into Java code at <strong>Groot Software</strong> and building real-world projects that make an impact!
 </p>
 
 ---
 
-## 🎯 Focused Learning & Development
+## 🌱 About Me
 
-🧠 **Learning & Leveling Up**  
-- ⚡ JavaScript (core + advanced)  
-- ⚛️ React.js for building dynamic UIs  
-- 🛢️ MySQL + MongoDB for data domination  
-- 🌱 Spring + Hibernate backend adventures
+Hey! I’m **Piyush**, a Computer Science student who loves building real-world applications from scratch.
+I’m all about:
+- Crafting responsive, dynamic UIs with **React + Tailwind**
+- Architecting robust backends in **Java** with **Spring & Hibernate**
+- Cloud, databases, DevOps, and everything that makes an app production-ready
+- Sharing, collaborating & always learning (because hey, tech moves fast ⚡)
 
-💼 **Current Focus**  
-- 🛠️ Real-world full-stack projects  
-- 🤝 Open-source collabs  
-- 🎮 Google Cloud Arcade skill badge grinding
+> I like to say: **"Build → Break → Fix → Repeat 🔁"**
 
 ---
 
-## 🧰 Tech Stack — My Toolbox
+## 🎯 What I'm Leveling Up Right Now
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Tools & Design**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-<details>
-  <summary>👨‍💻 <strong>More Technical Skills (Click to Expand)</strong></summary>
-
-- 🔄 Git branching, merging & GitHub workflow  
-- 🧪 REST API design, JWT auth, error handling  
-- ⚙️ Postman, IntelliJ, VS Code (power-user setup)  
-- ☁️ GCP basics, Firebase, GitHub Pages, Render  
-- 🧱 MVC & layered architecture (Spring + React)  
-- 🐛 Chrome DevTools, React DevTools, MySQL query tuning  
-- 🧹 Clean code, debugging, basic CI/CD (GitHub Actions)  
-- 🧠 Agile workflow, team collaboration (Trello, GitHub Projects)
-
-</details>
+- ☕ **Advanced Java** & Spring Framework  
+- ⚛️ **React.js** best practices & performance tuning  
+- 🐬 **MySQL & MongoDB** magic  
+- ☁️ **Google Cloud Arcade** skill badges (Compute, IAM, VPC, Kubernetes)  
+- 🧠 Open-source collaboration & full-stack real-world apps
 
 ---
 
-## 🧑‍💼 Professional Skillset
+## 🧰 Tech Toolbox
 
-**Web Development & Design**  
-- Responsive Web Development  
-- Website & UI Design  
-- Logo Design  
-
-**User Experience**  
-- UX Research  
-- User Experience Design (UED)  
-
-**Project & Client Management**  
-- Project Planning & Execution  
-- Client Communication & Customer Service  
-
-**Growth & Optimization**  
-- SEO Optimization  
-- Performance Tuning & Analytics  
+| Frontend | Backend | Database | Tools & Cloud |
+| :--: | :--: | :--: | :--: |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
 
 ---
 
-## ☁️ Cloud Skills Boost – Certified Progress
+## 🏆 Certifications & Achievements
+
+- ✅ **Google Cloud Arcade Facilitator – 2025 Cohort** (Milestone Three achieved)
+- 📜 Certified in Full Stack Web Dev, Java Core, AI & ML, Data Analytics, Responsive Design and more
+- 🏅 Multiple skill badges on GCP: Compute, IAM, VPC, Kubernetes, Cloud Storage
+- 🎓 Active contributor & learner at Groot Academy
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/8de7c885-cade-4966-9777-f1f109ab6c44" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Google+Cloud+Arcade+Facilitator+2025;Milestone+Three+Achieved!;Hands-on+Labs,+GCP,+Qwiklabs+Mastered!&center=true&width=500&height=50&color=4285F4&font=Fira%20Code" />
+    <img src="https://img.shields.io/badge/View%20My%20GCP%20Profile-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.cloudskillsboost.google/public_profiles/8de7c885-cade-4966-9777-f1f109ab6c44" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cloud-Skills%20Boost-blue?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  </a>
-</p>
-
-Completed the **Google Cloud Arcade Facilitator Program – 2025 Cohort**  
-✅ Achieved **Milestone Three** with hands-on labs covering:  
-- Compute Engine, IAM, Cloud Storage, VPCs, Kubernetes  
-- Real-world infrastructure and cloud-native deployment  
-- Facilitated peer learning and mastered GCP fundamentals
-
-> [📂 View My Cloud Skills Boost Profile](https://www.cloudskillsboost.google/public_profiles/8de7c885-cade-4966-9777-f1f109ab6c44)
 
 ---
 
-## 🌐 Let’s Link Up!
+## 🌐 Let's Connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush64bit" target="_blank">
@@ -128,23 +67,19 @@ Completed the **Google Cloud Arcade Facilitator Program – 2025 Cohort**
   </a>
   &nbsp;
   <a href="mailto:piiyush.sonii@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hi!-informational?style=flat&logo=gmail" />
   </a>
   &nbsp;
   <a href="https://piyushportfolio.live" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-9cf?style=flat&logo=vercel" />
-  </a>
-  &nbsp;
-  <a href="tel:+919660283856" target="_blank">
-    <img src="https://img.shields.io/badge/Call-Now-brightgreen?style=flat&logo=phone&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat&logo=vercel" />
   </a>
   &nbsp;
   <a href="https://wa.me/919660283856" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp" />
   </a>
   &nbsp;
   <a href="https://drive.google.com/uc?export=download&id=1ZdEUm7xN_zrC6S7OYtaIF2lyLhWQGp_R" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-informational?style=flat&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Resume-Download-informational?style=flat&logo=google-drive" />
   </a>
 </p>
 
@@ -153,19 +88,19 @@ Completed the **Google Cloud Arcade Facilitator Program – 2025 Cohort**
 ## 📊 GitHub Vibes
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=react" alt="Piyush's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=react" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=react" alt="Top Languages" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=react" height="170" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=react&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=react&hide_border=true" />
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+Learning+🚀;Build+with+Java+&+React+⚛️;Dream,+Code,+Repeat!&center=true&width=500&height=30&color=58A6FF&font=Fira%20Code" />
+</p>
 
 > *"Code like it’s your last push before the deadline."* — Every CS student ever 😤
