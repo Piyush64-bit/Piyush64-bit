@@ -88,13 +88,13 @@ I’m all about:
 ## 📊 GitHub Vibes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=react" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=tokyonight" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=react" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=tokyonight" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=react&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
