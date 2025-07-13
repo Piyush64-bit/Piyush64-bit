@@ -99,8 +99,5 @@ I’m all about:
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+Learning+🚀;Build+with+Java+&+React+⚛️;Dream,+Code,+Repeat!&center=true&width=500&height=30&color=58A6FF&font=Fira%20Code" />
-</p>
 
 > *"Code like it’s your last push before the deadline."* — Every CS student ever 😤
