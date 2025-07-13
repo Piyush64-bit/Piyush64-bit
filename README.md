@@ -15,7 +15,7 @@
 
 ## 🌱 About Me
 
-Hey! I’m **Piyush**, a Computer Science student who loves building real-world applications from scratch.
+Hey! I’m **Piyush**, a Computer Science student who loves building real-world applications from scratch.  
 I’m all about:
 - Crafting responsive, dynamic UIs with **React + Tailwind**
 - Architecting robust backends in **Java** with **Spring & Hibernate**
@@ -40,7 +40,7 @@ I’m all about:
 
 | Frontend | Backend | Database | Tools & Cloud |
 | :--: | :--: | :--: | :--: |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
 
 ---
 
@@ -63,23 +63,23 @@ I’m all about:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush64bit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;
   <a href="mailto:piiyush.sonii@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi!-informational?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hi!-informational?style=for-the-badge&logo=gmail" />
   </a>
   &nbsp;
   <a href="https://piyushportfolio.live" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=flat&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=vercel" />
   </a>
   &nbsp;
   <a href="https://wa.me/919660283856" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
   </a>
   &nbsp;
   <a href="https://drive.google.com/uc?export=download&id=1ZdEUm7xN_zrC6S7OYtaIF2lyLhWQGp_R" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-informational?style=flat&logo=google-drive" />
+    <img src="https://img.shields.io/badge/Resume-Download-informational?style=for-the-badge&logo=google-drive" />
   </a>
 </p>
 
@@ -88,16 +88,24 @@ I’m all about:
 ## 📊 GitHub Vibes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=tokyonight" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=tokyonight" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&theme=aura&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="50%" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=piyush64-bit&theme=aura&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=aura&hide_border=true" width="36%" />
 </div>
 
 ---
 
+## 🐍 Snake Animation
+
+<div align="center">
+  
+  ![snake gif](https://github.com/piyush64-bit/piyush64-bit/blob/output/github-snake-dark.svg)
+
+</div>
+
+
+---
 
 > *"Code like it’s your last push before the deadline."* — Every CS student ever 😤
