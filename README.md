@@ -94,9 +94,12 @@ I’m all about:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=tokyo-night" width="69%" />
+</div>
 
 
 ---
