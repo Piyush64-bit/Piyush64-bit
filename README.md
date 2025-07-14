@@ -94,7 +94,7 @@ I’m all about:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=tokyonight&hide_border=true" width="70%" />
 </div>
 
 <div align="center">
