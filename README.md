@@ -88,18 +88,19 @@ I’m all about:
 ## 📊 GitHub Vibes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=dark" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=dark" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=dark&hide_border=true" width="70%" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=tokyo-night" width="69%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=github-dark" width="69%" />
 </div>
+
 
 
 ---
