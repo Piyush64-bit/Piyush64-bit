@@ -1,44 +1,45 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=200&section=header&text=Hey%20There!%20I'm%20Piyush%20🚀&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffc3,00c0ff,2c5364&height=200&section=header&text=👋%20Hey%20There!%20This%20is%20Piyush%20🚀&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 </p>
 
 <p align="center">
-  <strong>Java Full Stack Developer</strong> | <strong>CS Student @ GIT Jaipur</strong> | Future <strong>SDE</strong><br/>
-  Currently turning ☕ into Java code at <strong>Groot Software</strong> and building real-world projects that make an impact!
+  <strong>🧑‍💻 Java Full Stack Developer</strong> | <strong>CS Student @ GIT Jaipur</strong> | ⚡ Future <strong>SDE</strong><br/>
+  Currently turning ☕ into Java code at <strong>Groot Software</strong> and building real-world projects that level up lives!
 </p>
 
 ---
 
 ## 🌱 About Me
 
-Hey! I’m **Piyush**, a Computer Science student who loves building real-world applications from scratch.  
+Hey! I’m **Piyush**, a CS student who loves building real-world apps from scratch, arcade style.  
 I’m all about:
-- Crafting responsive, dynamic UIs with **React + Tailwind**
-- Architecting robust backends in **Java** with **Spring & Hibernate**
-- Cloud, databases, DevOps, and everything that makes an app production-ready
-- Sharing, collaborating & always learning (because hey, tech moves fast ⚡)
+- Crafting dynamic UIs with **React + Tailwind**
+- Brewing solid backends in **Java + Spring & Hibernate**
+- Cloud, databases & DevOps for production-ready apps
+- Sharing, collaborating & constantly leveling up ⚡
 
-> I like to say: **"Build → Break → Fix → Repeat 🔁"**
-
----
-
-## 🎯 What I'm Leveling Up Right Now
-
-- ☕ **Advanced Java** & Spring Framework  
-- ⚛️ **React.js** best practices & performance tuning  
-- 🐬 **MySQL & MongoDB** magic  
-- ☁️ **Google Cloud Arcade** skill badges (Compute, IAM, VPC, Kubernetes)  
-- 🧠 Open-source collaboration & full-stack real-world apps
+> 🕹 Motto: **"Build → Break → Fix → Repeat 🔁"**
 
 ---
 
-## 🧰 Tech Toolbox
+## 🎯 Power-Ups I'm Grinding Right Now
 
-| Frontend | Backend | Database | Tools & Cloud |
+- ☕ **Advanced Java** & Spring Framework
+- ⚛️ **React.js** best practices & performance tuning
+- 🐬 **MySQL & MongoDB** data magic
+- ☁️ **Google Cloud Arcade** skill badges (Compute, IAM, VPC, Kubernetes)
+- 🧠 Open-source collab & full-stack real-world apps
+
+---
+
+## 🧰 Tech Loadout
+
+| 🎨 Frontend | 🛠 Backend | 🗄 Database | ☁️ Cloud & Tools |
 | :--: | :--: | :--: | :--: |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
 
@@ -47,7 +48,7 @@ I’m all about:
 ## 🏆 Certifications & Achievements
 
 - ✅ **Google Cloud Arcade Facilitator – 2025 Cohort** (Milestone Three achieved)
-- 📜 Certified in Full Stack Web Dev, Java Core, AI & ML, Data Analytics, Responsive Design and more
+- 📜 Certified in Full Stack Dev, Java Core, AI & ML, Data Analytics & more
 - 🏅 Multiple skill badges on GCP: Compute, IAM, VPC, Kubernetes, Cloud Storage
 - 🎓 Active contributor & learner at Groot Academy
 
@@ -59,7 +60,7 @@ I’m all about:
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let’s Connect & Play Co-op!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush64bit" target="_blank">
@@ -85,12 +86,12 @@ I’m all about:
 
 ---
 
-## 📊 GitHub Vibes
+## 📊 Arcade Stats & GitHub Vibes
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=dark&border_radius=20" height="170" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=dark" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=dark&border_radius=20" height="170" />
 </div>
 
 <div align="center">
@@ -98,11 +99,16 @@ I’m all about:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=github-dark" width="69%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=github-compact&area=true&hide_border=true" width="70%" />
 </div>
 
 
 
 ---
 
-> *"Code like it’s your last push before the deadline."* — Every CS student ever 😤
+> *"Code like it’s your last life before GAME OVER."* — Every CS student ever 😤
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="piyush64-bit" />
+</p>
