@@ -67,27 +67,81 @@ love crafting real-world apps that don't just run... they vibe:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush64bit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:piiyush.sonii@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi!-informational?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://piyushportfolio.live" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-9cf?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://wa.me/919660283856" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="tel:+919660283856" target="_blank">
+    <img src="https://img.shields.io/badge/Call-34A853?style=for-the-badge&logo=phone&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://drive.google.com/uc?export=download&id=1ZdEUm7xN_zrC6S7OYtaIF2lyLhWQGp_R" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download-informational?style=for-the-badge&logo=google-drive" />
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://open.spotify.com/user/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/yourserver" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.threads.net/@yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://behance.net/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://dribbble.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-EB4A7C?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://twitch.tv/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
 ---
+
+
 
 ## 📊 stats & vibes
 
