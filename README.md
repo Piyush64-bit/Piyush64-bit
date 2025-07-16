@@ -1,56 +1,59 @@
+<div align="center">
+  <h1>
+    HOWDY FOLKS
+  </h1>
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffc3,00c0ff,2c5364&height=200&section=header&text=👋%20Hey%20There!%20This%20is%20Piyush%20🚀&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="220" alt="coding meme"/>
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
-</p>
 
-<p align="center">
-  <strong>🧑‍💻 Java Full Stack Developer</strong> | <strong>CS Student @ GIT Jaipur</strong> | ⚡ Future <strong>SDE</strong><br/>
-  Currently turning ☕ into Java code at <strong>Groot Software</strong> and building real-world projects that level up lives!
-</p>
+<h4 align="center">
+  🧑‍💻 <strong>Java Full Stack Dev</strong> | CS @ GIT Jaipur | ⚡ future SDE  
+  brewing ☕ into Spring Boot & React apps at <strong>Groot Software</strong>
+</h4>
 
 ---
 
-## 🌱 About Me
+## 🌿 About Me
 
-Hey! I’m **Piyush**, a CS student who loves building real-world apps from scratch, arcade style.  
-I’m all about:
-- Crafting dynamic UIs with **React + Tailwind**
-- Brewing solid backends in **Java + Spring & Hibernate**
-- Cloud, databases & DevOps for production-ready apps
-- Sharing, collaborating & constantly leveling up ⚡
+hey! i'm **Piyush** — a dev who builds, breaks & ships stuff (usually in that order 😅).  
+love crafting real-world apps that don't just run... they vibe:  
+- ⚛️ frontend stories with **React + Tailwind**  
+- ☕ backend sauce in **Java + Spring + Hibernate**  
+- ☁️ cloud, CI/CD & db magic  
+- collab > solo grind 🔄
 
-> 🕹 Motto: **"Build → Break → Fix → Repeat 🔁"**
-
----
-
-## 🎯 Power-Ups I'm Grinding Right Now
-
-- ☕ **Advanced Java** & Spring Framework
-- ⚛️ **React.js** best practices & performance tuning
-- 🐬 **MySQL & MongoDB** data magic
-- ☁️ **Google Cloud Arcade** skill badges (Compute, IAM, VPC, Kubernetes)
-- 🧠 Open-source collab & full-stack real-world apps
+> 🕹 *motto*: **"Build → Break → Debug → Repeat 🔁"**
 
 ---
 
-## 🧰 Tech Loadout
+## 🎯 what i'm grinding rn
 
-| 🎨 Frontend | 🛠 Backend | 🗄 Database | ☁️ Cloud & Tools |
-| :--: | :--: | :--: | :--: |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+- ☕ deep diving **Advanced Java** & Spring Boot  
+- ⚛️ perf hacks & best practices in React  
+- 🐬 database juggling: MySQL & MongoDB  
+- ☁️ **Google Cloud Arcade** skill badges (VPC, IAM, K8s)  
+- 🤝 side quests & open source collab
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🧰 stack & tools
 
-- ✅ **Google Cloud Arcade Facilitator – 2025 Cohort** (Milestone Three achieved)
-- 📜 Certified in Full Stack Dev, Java Core, AI & ML, Data Analytics & more
-- 🏅 Multiple skill badges on GCP: Compute, IAM, VPC, Kubernetes, Cloud Storage
-- 🎓 Active contributor & learner at Groot Academy
+| 🎨 frontend | 🛠 backend | 🗄 databases | ☁️ cloud & tools |
+| :-: | :-: | :-: | :-: |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=rest&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Cloud Shell](https://img.shields.io/badge/Cloud%20Shell-689F63?style=for-the-badge&logo=gnu-bash&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-FF6C37?style=for-the-badge) ![IAM](https://img.shields.io/badge/IAM-FFB400?style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+
+
+
+## 🏆 lil' flex
+
+- 🏅 **Google Cloud Arcade – 2025 Cohort** (milestone three ✅)  
+- 📜 certified in full stack dev, java, AI & ML, data analytics  
+- ☁️ multiple skill badges (VPC, IAM, Compute, Kubernetes)  
+- 🧑‍🏫 building & learning daily @ Groot Academy
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/8de7c885-cade-4966-9777-f1f109ab6c44" target="_blank">
@@ -60,7 +63,7 @@ I’m all about:
 
 ---
 
-## 🌐 Let’s Connect & Play Co-op!
+## 🌐 connect & vibe
 
 <p align="center">
   <a href="https://www.linkedin.com/in/piyush64bit" target="_blank">
@@ -72,7 +75,7 @@ I’m all about:
   </a>
   &nbsp;
   <a href="https://piyushportfolio.live" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-9cf?style=for-the-badge&logo=vercel" />
   </a>
   &nbsp;
   <a href="https://wa.me/919660283856" target="_blank">
@@ -86,7 +89,7 @@ I’m all about:
 
 ---
 
-## 📊 Arcade Stats & GitHub Vibes
+## 📊 stats & vibes
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=dark&border_radius=20" height="170" />
@@ -102,12 +105,9 @@ I’m all about:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=github-compact&area=true&hide_border=true" width="70%" />
 </div>
 
-
-
 ---
 
-> *"Code like it’s your last life before GAME OVER."* — Every CS student ever 😤
-
+> ✨ *"code like it’s your last respawn before GAME OVER."* — me, probably at 2am
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="piyush64-bit" />
