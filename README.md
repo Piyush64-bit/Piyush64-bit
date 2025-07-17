@@ -146,6 +146,10 @@ love crafting real-world apps that don't just run... they vibe:
 ## 📊 stats & vibes
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=github-compact&area=true&hide_border=true" width="90%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=dark&border_radius=20" height="170" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=dark&border_radius=20" height="170" />
@@ -155,9 +159,6 @@ love crafting real-world apps that don't just run... they vibe:
   <img src="https://streak-stats.demolab.com/?user=piyush64-bit&theme=dark&hide_border=true" width="70%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=github-compact&area=true&hide_border=true" width="70%" />
-</div>
 
 ---
 
