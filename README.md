@@ -101,42 +101,6 @@ love crafting real-world apps that don't just run... they vibe:
   <a href="https://open.spotify.com/user/31bfaigq7gev2a5wlpktypduh4lm" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://youtube.com/Punya_paaap" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.threads.net/@" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://behance.net/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://dribbble.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EB4A7C?style=for-the-badge&logo=dribbble&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://twitch.tv/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://facebook.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
 </p>
 
 ---
