@@ -90,19 +90,19 @@ love crafting real-world apps that don't just run... they vibe:
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://twitter.com/PUNYAPAAP0001" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://instagram.com/pii.yush" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://open.spotify.com/user/yourhandle" target="_blank">
+  <a href="https://open.spotify.com/user/31bfaigq7gev2a5wlpktypduh4lm" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://youtube.com/@yourchannel" target="_blank">
+  <a href="https://youtube.com/Punya_paaap" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
@@ -114,7 +114,7 @@ love crafting real-world apps that don't just run... they vibe:
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.threads.net/@yourhandle" target="_blank">
+  <a href="https://www.threads.net/@" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
   </a>
   &nbsp;
