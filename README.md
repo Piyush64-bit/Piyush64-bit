@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.tenor.com/fOyReokL0xAAAAAi/chillguy-chill.gif" width="220" alt="coding meme"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm02dWRpNDRvOXZ3amhpeTl0eWdha2wwc2x4dHc3Z21xeHl0eTZzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11ISwbgCxEzMyY/giphy.gif" width="320" alt="coding meme"/>
 </p>
 
 
