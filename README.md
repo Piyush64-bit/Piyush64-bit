@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=plastic" alt="piyush64-bit" width="150" />
+
 <h1 align="center">👋 Moshi Moshi</h1>
 
 <p align="center">
@@ -105,6 +107,4 @@ Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once 😅)
 
 <p align="center"><i>"Code like it's your last respawn before GAME OVER."</i></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="piyush64-bit" />
-</p>
+
