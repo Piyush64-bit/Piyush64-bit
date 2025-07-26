@@ -1,12 +1,20 @@
-<img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=plastic" alt="piyush64-bit" width="150" />
-
+<!-- Header Greeting -->
 <h1 align="center">👋 Moshi Moshi</h1>
 
+<!-- Anime GIF -->
 <p align="center">
   <img src="https://media.tenor.com/hpkBRB76LQAAAAAi/luffyissokawaii-luffybae.gif" width="300" alt="coding meme" />
 </p>
 
----
+<br/>
+
+<!-- Profile Badge (with spacing below) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=plastic" alt="piyush64-bit" width="150" />
+</p>
+
+<br/>
+
 
 ## 🌿 About Me
 
