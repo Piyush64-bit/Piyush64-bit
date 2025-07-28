@@ -3,7 +3,7 @@
 
 <!-- Anime GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/hpkBRB76LQAAAAAi/luffyissokawaii-luffybae.gif" width="300" alt="coding meme" />
+  <img src="https://media.tenor.com/hpkBRB76LQAAAAAi/luffyissokawaii-luffybae.gif" width="500" alt="coding meme" />
 </p>
 
 <br/>
