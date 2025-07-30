@@ -1,9 +1,9 @@
 <!-- Header Greeting -->
-<h1 align="center"> H E L L O👋👋</h1>
+
 
 <!-- Anime GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNyYWN0dG5yanU5c2ZoNTd2NnFwNGFhbmtrdGlhM2wxNnV3aTc5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif" width="400" alt="coding meme" />
+  <img src="https://media.tenor.com/DiwpXc-15XwAAAAi/hello-hi.gif" width="400" alt="coding meme" />
 </p>
 
 <br/>
