@@ -3,7 +3,7 @@
 
 <!-- Anime GIF -->
 <p align="center">
-  <img src="https://media.tenor.com/DiwpXc-15XwAAAAi/hello-hi.gif" width="400" alt="coding meme" />
+  <img src="https://media.tenor.com/DiwpXc-15XwAAAAi/hello-hi.gif" width="200" alt="coding meme" />
 </p>
 
 <br/>
