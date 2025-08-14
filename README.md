@@ -1,33 +1,90 @@
-<<<<<<< HEAD
-﻿<!-- ===== HEADER SECTION ===== -->
-=======
-<!-- ===== HEADER SECTION ===== -->
-<div align="center">
+<!--
+  Professional GitHub Profile README for Piyush Soni
+  Modern, recruiter-friendly, and clean Markdown structure
+-->
 
-<!-- Animated Terminal Header --><!-- Anime GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/DiwpXc-15XwAAAAi/hello-hi.gif" width="200" alt="coding meme" />
+# Piyush Soni
+
+**Full Stack Developer | Cloud Enthusiast | Java & React Specialist**
+
+<p align="left">
+<img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Email-piiyush.sonii@outlook.com-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Portfolio-piyushportfolio.live-green?style=flat-square" />
+<img src="https://img.shields.io/badge/LinkedIn-piyush64bit-blue?style=flat-square&logo=linkedin" />
 </p>
 
-<br/>
+---
 
-<!-- Profile Badge (with spacing below) -->
+## 👋 About Me
+
+I'm **Piyush Soni**, a passionate developer who transforms ideas into digital reality. I specialize in building scalable, high-quality web applications using Java, Spring Boot, React, and cloud technologies. I thrive in collaborative environments and love solving real-world problems with code.
+
+---
+
+## 🚀 Why Hire Me?
+
+- **Proven Full Stack Skills:** Java, Spring Boot, React, Next.js, TypeScript
+- **Cloud Ready:** Google Cloud, Docker, Kubernetes, CI/CD
+- **Clean Code & Best Practices:** Focused on maintainability and performance
+- **Continuous Learner:** Always upskilling and adapting to new tech
+- **Strong Communicator:** Experience working in diverse, distributed teams
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Java, JavaScript, TypeScript, C, C++, SQL  
+**Frameworks:** Spring Boot, React, Next.js, Express.js  
+**Cloud & DevOps:** Google Cloud, Docker, Kubernetes, GitHub Actions  
+**Databases:** MySQL, MongoDB, PostgreSQL  
+**Tools:** VS Code, IntelliJ, Git, Postman, Figma
+
+---
+
+## � Achievements
+
+- **Full Stack Development - Certified** (Groot Software Academy)
+- **Google Cloud Arcade Level 3**
+- **100 Days of Java Challenge - Completed**
+- **Open Source Contributor**
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=plastic" alt="piyush64-bit" width="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=radical" height="150" />
 </p>
 
+---
 
+## 💼 Projects
 
-## 🌿 About Me
+- [C-Programs](https://github.com/Piyush64-bit/C-Programs): Foundation-level C programming
+- [CPP-Programs](https://github.com/Piyush64-bit/CPP-Programs): Advanced C++ and DSA
+- [Java-Programs](https://github.com/Piyush64-bit/Java-Programs): 100 Days of Java
+- [AdvanceJava-Programs](https://github.com/Piyush64-bit/AdvanceJava-Programs): Enterprise Java, Spring Boot
 
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
-<div align="center">
+---
 
-<!-- Animated Terminal Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=%3E+sudo+whoami;%3E+piyush%40developer~%24;%3E+initializing+digital_dreams.exe;%3E+loading_tech_stack...+100%25;%3E+welcome_to_my_github!" alt="Terminal Animation" />
+## 📚 Learning & Growth
 
-<!-- Matrix-style Background -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+- **Currently Learning:** Microservices, Advanced Cloud, System Design
+- **Focus Areas:** Performance Optimization, Design Patterns, DevOps
+
+---
+
+## 📬 Contact
+
+- **Email:** piiyush.sonii@outlook.com
+- **LinkedIn:** [piyush64bit](https://www.linkedin.com/in/piyush64bit)
+- **Portfolio:** [piyushportfolio.live](https://piyushportfolio.live)
+
+---
+
+<sub>Last updated: August 2025</sub>
 
 <!-- Cyberpunk Style Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Piyush!;Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver;Tech+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
