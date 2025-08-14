@@ -15,25 +15,7 @@
 
 
 
-## 🌿 About Me
-
-<div align="center">
-  <img src="./Assets/profile.png" alt="Piyush's Profile Picture" width="200" style="border-radius: 50%; border: 4px solid #0e75b6;" />
-</div>
-
-<br>
-
-> Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once 😅). Obsessed with turning ideas into real-world apps that actually vibe.
-
-<details>
-<summary>🎯 <strong>What drives me</strong></summary>
-```
-
-**Core Expertise & Power Level:**
-- ⚛️ **Frontend Mastery** → React, TypeScript, Next.js `[████████████] 95%`
-- ☕ **Backend Engineering** → Java, Spring Boot, APIs `[██████████░] 90%`
-- 🐬 **Data & Cloud** → MySQL, MongoDB, GCP `[████████░░░] 85%`
-</td>
+...existing code...
 <!-- ===== HEADER SECTION ===== -->
 <div align="center">
   <img src="./Assets/profile.png" alt="Piyush's Profile Picture" width="180" style="border-radius: 50%; border: 3px solid #0e75b6;" />
