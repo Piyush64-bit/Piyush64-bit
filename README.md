@@ -1,22 +1,5 @@
-<!-- ===== HEADER SECTION ===== -->
-<div align="center">
 
-<!-- Animated Terminal Header --><!-- Anime GIF -->
-<p align="center">
-  <img src="https://media.tenor.com/DiwpXc-15XwAAAAi/hello-hi.gif" width="200" alt="coding meme" />
-</p>
-
-<br/>
-
-<!-- Profile Badge (with spacing below) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=plastic" alt="piyush64-bit" width="150" />
-</p>
-
-
-
-...existing code...
-<!-- ===== HEADER SECTION ===== -->
+<!-- ===== PROFILE PEAK ===== -->
 <div align="center">
   <img src="./Assets/profile.png" alt="Piyush's Profile Picture" width="180" style="border-radius: 50%; border: 3px solid #0e75b6;" />
   <br/>
@@ -35,91 +18,18 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge&logo=ai&logoColor=white"/>
   <br><br>
-  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-piiyush.sonii@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-piyush.sonii@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-piyush64bit-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Piyush64-bit"><img src="https://img.shields.io/badge/GitHub-piyush64--bit-181717?style=flat-square&logo=github"/></a>
   <a href="https://piyushportfolio.live"><img src="https://img.shields.io/badge/Portfolio-piyushportfolio.live-0e75b6?style=flat-square"/></a>
 </div>
 
----
+<details>
+<summary><b>▼ See full profile & details</b></summary>
 
-## 🌿 About Me
+...existing code...
 
-Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once �). Obsessed with turning ideas into real-world apps that actually vibe. I love working on AI, web development, and open source projects. My approach combines clean code, creative problem-solving, and a drive for continuous learning.
-
----
-
-## � What I Do
-
-|  |  |
-|---|---|
-| **Languages** | Java, JavaScript, HTML5, CSS3, SQL |
-| **Frameworks** | Spring Boot, React.js, Node.js, Express.js |
-| **Databases** | MySQL, MongoDB |
-| **DevOps & Tools** | Git, GitHub, Docker, Postman, VS Code, IntelliJ |
-| **AI & ML** | OpenAI, LangChain, ML basics |
-| **Certifications** | Full Stack (Groot Academy), Google Cloud Arcade, Java 100 Days |
-| **Soft Skills** | Teamwork, Communication, Problem Solving, Mentoring |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=default" height="150"/>
-</p>
-
----
-
-## 🏅 Badges & Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Java-Expert-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-Pro-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/React.js-Advanced-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-Arcade_Level_3-yellow?style=flat-square"/>
-  <img src="https://img.shields.io/badge/100_Days_Java-Challenge-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat-square"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 🤖 Exploring AI & ML for smarter web apps
-- 🚀 Deepening Spring Boot & cloud deployment skills
-- 🌐 Building open source tools and collaborating with the community
-- 📚 Learning advanced system design and scalable architectures
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [C-Programs](https://github.com/Piyush64-bit/C-Programs) | Foundation-level C programming | C |
-| [CPP-Programs](https://github.com/Piyush64-bit/CPP-Programs) | Advanced C++ and DSA | C++ |
-| [Java-Programs](https://github.com/Piyush64-bit/Java-Programs) | 100 Days of Java | Java |
-| [AdvanceJava-Programs](https://github.com/Piyush64-bit/AdvanceJava-Programs) | Enterprise Java, Spring Boot | Java, Spring Boot |
-
----
-
-## 🤝 Let’s Connect
-
-<p>
-  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-piiyush.sonii@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-piyush64bit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Piyush64-bit"><img src="https://img.shields.io/badge/GitHub-piyush64--bit-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://piyushportfolio.live"><img src="https://img.shields.io/badge/Portfolio-piyushportfolio.live-0e75b6?style=for-the-badge"/></a>
-</p>
-
----
-
-<p align="center">
-  <sub>Made with ❤️ | Last updated: August 2025 | Looks great in both light & dark mode</sub>
-</p>
+</details>
 <td width="50%" align="center">
 
 ### ☁️ **Cloud Expedition**
