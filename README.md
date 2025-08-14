@@ -1,5 +1,19 @@
+<!-- ===== HEADER SECTION ===== -->
+<div align="center">
 
-<!-- ===== PROFILE PEAK ===== -->
+<!-- Animated Terminal Header --><!-- Anime GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/DiwpXc-15XwAAAAi/hello-hi.gif" width="200" alt="coding meme" />
+</p>
+
+<br/>
+
+<!-- Profile Badge (with spacing below) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=plastic" alt="piyush64-bit" width="150" />
+</p>
+
+<!-- ===== HEADER SECTION ===== -->
 <div align="center">
   <img src="./Assets/profile.png" alt="Piyush's Profile Picture" width="180" style="border-radius: 50%; border: 3px solid #0e75b6;" />
   <br/>
@@ -18,18 +32,95 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge&logo=ai&logoColor=white"/>
   <br><br>
-  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-piyush.sonii@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-piiyush.sonii@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-piyush64bit-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Piyush64-bit"><img src="https://img.shields.io/badge/GitHub-piyush64--bit-181717?style=flat-square&logo=github"/></a>
   <a href="https://piyushportfolio.live"><img src="https://img.shields.io/badge/Portfolio-piyushportfolio.live-0e75b6?style=flat-square"/></a>
 </div>
 
+---
+
+## 🌿 About Me
+
+Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once �). Obsessed with turning ideas into real-world apps that actually vibe. I love working on AI, web development, and open source projects. My approach combines clean code, creative problem-solving, and a drive for continuous learning.
+
+---
+
 <details>
-<summary><b>▼ See full profile & details</b></summary>
+<summary>🎯 <strong>What drives me</strong></summary>
+<br>
 
-...existing code...
+## 🚀 What I Do
 
-</details>
+|                    |                                                                |
+| ------------------ | -------------------------------------------------------------- |
+| **Languages**      | Java, JavaScript, HTML5, CSS3, SQL                             |
+| **Frameworks**     | Spring Boot, React.js, Node.js, Express.js                     |
+| **Databases**      | MySQL, MongoDB                                                 |
+| **DevOps & Tools** | Git, GitHub, Docker, Postman, VS Code, IntelliJ                |
+| **AI & ML**        | OpenAI, LangChain, ML basics                                   |
+| **Certifications** | Full Stack (Groot Academy), Google Cloud Arcade, Java 100 Days |
+| **Soft Skills**    | Teamwork, Communication, Problem Solving, Mentoring            |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=default" height="150"/>
+</p>
+
+---
+
+## 🏅 Badges & Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Java-Expert-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-Pro-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React.js-Advanced-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Arcade_Level_3-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/100_Days_Java-Challenge-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat-square"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 Exploring AI & ML for smarter web apps
+- 🚀 Deepening Spring Boot & cloud deployment skills
+- 🌐 Building open source tools and collaborating with the community
+- 📚 Learning advanced system design and scalable architectures
+
+---
+
+## 🌟 Featured Projects
+
+| Project                                                                      | Description                    | Tech              |
+| ---------------------------------------------------------------------------- | ------------------------------ | ----------------- |
+| [C-Programs](https://github.com/Piyush64-bit/C-Programs)                     | Foundation-level C programming | C                 |
+| [CPP-Programs](https://github.com/Piyush64-bit/CPP-Programs)                 | Advanced C++ and DSA           | C++               |
+| [Java-Programs](https://github.com/Piyush64-bit/Java-Programs)               | 100 Days of Java               | Java              |
+| [AdvanceJava-Programs](https://github.com/Piyush64-bit/AdvanceJava-Programs) | Enterprise Java, Spring Boot   | Java, Spring Boot |
+
+---
+
+## 🤝 Let’s Connect
+
+<p>
+  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-piiyush.sonii@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-piyush64bit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Piyush64-bit"><img src="https://img.shields.io/badge/GitHub-piyush64--bit-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://piyushportfolio.live"><img src="https://img.shields.io/badge/Portfolio-piyushportfolio.live-0e75b6?style=for-the-badge"/></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ | Last updated: August 2025 | Looks great in both light & dark mode</sub>
+</p>
 <td width="50%" align="center">
 
 ### ☁️ **Cloud Expedition**
@@ -37,13 +128,14 @@
 <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,terraform" alt="Cloud Stack" />
 
 ```yaml
-Google Cloud:  ████████░░░░░ 70%
-Kubernetes:    ██████░░░░░░░ 50%
+Google Cloud: ████████░░░░░ 70%
+Kubernetes: ██████░░░░░░░ 50%
 Infrastructure: ███████░░░░░░ 60%
-DevOps:        ████████░░░░░ 65%
+DevOps: ████████░░░░░ 65%
 ```
 
 **Achievements:**
+
 - 🌟 **GCP Arcade Level 3** Completed
 - 🛡️ **IAM & VPC** Certified
 - ⚙️ **Compute Engine** Expert
@@ -57,7 +149,6 @@ DevOps:        ████████░░░░░ 65%
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 ## 🧰 Technology Arsenal & Weapon Cache
 
@@ -75,6 +166,7 @@ DevOps:        ████████░░░░░ 65%
 <div align="center">
 
 ### 💻 **Active Tech Stack Monitor**
+
 ```yaml
 System Status: [ONLINE] ████████████████████ 100%
 Last Updated: July 2025
@@ -109,18 +201,23 @@ Skill Tree: EXPANDING
 </table>
 
 ### 🎨 **Frontend Universe**
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" alt="Frontend Skills" />
 
-### 🛠️ **Backend Powerhouse**  
+### 🛠️ **Backend Powerhouse**
+
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,hibernate,maven" alt="Backend Skills" />
 
 ### 🗄️ **Data Storage**
+
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" alt="Database Skills" />
 
 ### ☁️ **Cloud & DevOps**
+
 <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,git,github,netlify,postman" alt="Cloud Skills" />
 
 ### 🎯 **Tools & Design**
+
 <img src="https://skillicons.dev/icons?i=vscode,idea,figma,canva,linux,bash" alt="Tools" />
 
 </div>
@@ -135,16 +232,18 @@ Skill Tree: EXPANDING
 <td width="50%">
 
 **🎨 Frontend Mastery**
+
 ```javascript
 const frontendSkills = {
   languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
   frameworks: ["React.js", "Next.js", "Tailwind CSS"],
   tools: ["Vite", "Webpack", "Framer Motion"],
-  design: ["Figma", "Responsive Design", "UI/UX"]
+  design: ["Figma", "Responsive Design", "UI/UX"],
 };
 ```
 
 **🛠️ Backend Engineering**
+
 ```java
 public class BackendExpertise {
   private String[] languages = {"Java", "JavaScript"};
@@ -158,17 +257,18 @@ public class BackendExpertise {
 <td width="50%">
 
 **☁️ Cloud & Infrastructure**
+
 ```yaml
 Cloud Platforms:
   - Google Cloud Platform (GCP)
   - Compute Engine, VPC, IAM
   - Kubernetes & Container Orchestration
-  
+
 DevOps Tools:
   - Docker & Containerization
   - CI/CD Pipelines
   - Git Version Control
-  
+
 Deployment:
   - Netlify, Vercel
   - Cloud Functions
@@ -176,6 +276,7 @@ Deployment:
 ```
 
 **📊 Development Workflow**
+
 ```mermaid
 graph LR
   A[Code] --> B[Test]
@@ -199,15 +300,13 @@ graph LR
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Code+Portfolio;Learning+In+Public;Building+With+Purpose" alt="Projects" />
 
-*These repositories aren't just practice — they're my **digital evolution** documented in code.*
+_These repositories aren't just practice — they're my **digital evolution** documented in code._
 
 </div>
 
 <table>
 <tr>
 <td align="center" width="25%">
-
-
 
 <img src="https://skillicons.dev/icons?i=c" width="60" alt="C Programming" />
 
@@ -222,14 +321,12 @@ int main() {
 }
 ```
 
-*From basic syntax to advanced pointers, memory management, and system programming fundamentals.*
+_From basic syntax to advanced pointers, memory management, and system programming fundamentals._
 
 **Key Concepts:** Pointers, File I/O, Data Structures
 
 </td>
 <td align="center" width="25%">
-
-
 
 <img src="https://skillicons.dev/icons?i=cpp" width="60" alt="C++ Programming" />
 
@@ -245,14 +342,12 @@ class Skills {
 };
 ```
 
-*Advanced OOP concepts, STL mastery, algorithm optimization, and competitive programming solutions.*
+_Advanced OOP concepts, STL mastery, algorithm optimization, and competitive programming solutions._
 
 **Key Concepts:** OOP, STL, Algorithms, DSA
 
 </td>
 <td align="center" width="25%">
-
-
 
 <img src="https://skillicons.dev/icons?i=java" width="60" alt="Java Programming" />
 
@@ -266,14 +361,12 @@ public class JavaMastery {
 }
 ```
 
-*Complete Java journey: Core fundamentals, OOP mastery, design patterns, and enterprise development.*
+_Complete Java journey: Core fundamentals, OOP mastery, design patterns, and enterprise development._
 
 **Key Concepts:** Core Java, OOP, Collections, Multithreading
 
 </td>
 <td align="center" width="25%">
-
-
 
 <img src="https://skillicons.dev/icons?i=spring" width="60" alt="Advanced Java" />
 
@@ -287,7 +380,7 @@ public class WebDevelopment {
 }
 ```
 
-*Enterprise Java development: JDBC, Servlets, JSP, Spring framework, and full-stack web applications.*
+_Enterprise Java development: JDBC, Servlets, JSP, Spring framework, and full-stack web applications._
 
 **Key Concepts:** Web Development, Spring, Database Integration
 
@@ -317,50 +410,46 @@ public class WebDevelopment {
 <tr>
 <td width="50%" align="center">
 
-
-
 ### 🎓 **Professional Certifications**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java" width="200" alt="Certified Skills" />
 
 ```yaml
-Credentials:
-  ✅ Full Stack Development - Certified
-  ✅ Java Programming - Advanced Level  
+Credentials: ✅ Full Stack Development - Certified
+  ✅ Java Programming - Advanced Level
   ✅ AI/ML & Data Analytics - Qualified
   ✅ Frontend Development - Expert
-  
+
 Institution: Groot Software Academy
 Status: Active Learning & Building
 ```
 
 **Skills Validated:**
+
 - 🎨 Modern Web Development
-- ☕ Enterprise Java Applications  
+- ☕ Enterprise Java Applications
 - � Machine Learning Fundamentals
 - 📊 Data Analysis & Visualization
 
 </td>
 <td width="50%" align="center">
 
-
-
 ### ☁️ **Google Cloud Mastery**
 
 <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker" width="150" alt="GCP Skills" />
 
 ```yaml
-Google Cloud Journey:
-  🌟 Arcade Program 2025 - Level 3 Achieved
+Google Cloud Journey: 🌟 Arcade Program 2025 - Level 3 Achieved
   🛡️ VPC & IAM Security - Certified
   ⚙️ Compute Engine - Infrastructure Expert
   ☸️ Kubernetes Engine - Container Orchestration
-  
+
 Current Level: Advanced Practitioner
 Next Target: Professional Cloud Architect
 ```
 
 **Cloud Expertise:**
+
 - 🏗️ Infrastructure Design & Management
 - 🔐 Security & Identity Access Management
 - 📦 Containerization & Orchestration
@@ -391,15 +480,13 @@ Next Target: Professional Cloud Architect
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Let's+Build+Something+Amazing!;Open+For+Collaborations;Always+Ready+To+Connect" alt="Connect" />
 
-### 💫 *Ready to turn ideas into digital reality?*
+### 💫 _Ready to turn ideas into digital reality?_
 
 </div>
 
 <table>
 <tr>
 <td width="33%" align="center">
-
-
 
 ### 🤝 **Professional**
 
@@ -421,8 +508,6 @@ Next Target: Professional Cloud Architect
 
 </td>
 <td width="33%" align="center">
-
-
 
 ### 📱 **Get in Touch**
 
@@ -448,8 +533,6 @@ Next Target: Professional Cloud Architect
 
 </td>
 <td width="33%" align="center">
-
-
 
 ### 🎉 **Social Presence**
 
@@ -481,7 +564,7 @@ Next Target: Professional Cloud Architect
   <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=ff6b6b" />
 </a>
 
-*Discover my projects, skills, and professional journey in an interactive experience!*
+_Discover my projects, skills, and professional journey in an interactive experience!_
 
 </div>
 
@@ -493,7 +576,7 @@ Next Target: Professional Cloud Architect
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Coding+Journey+Analytics;GitHub+Performance+Stats;Data-Driven+Development" alt="Analytics" />
 
-### 📈 *My development journey visualized through data*
+### 📈 _My development journey visualized through data_
 
 </div>
 
@@ -526,12 +609,14 @@ Next Target: Professional Cloud Architect
 <td width="33%" align="center">
 
 ### 🔥 **Contribution Streak**
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=FF6B6B&fire=0E75B6&currStreakLabel=FF6B6B" width="100%" />
 
 </td>
 <td width="33%" align="center">
 
 ### 🏆 **Achievement Showcase**
+
 <img src="https://github-profile-trophy.vercel.app/?username=piyush64-bit&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=2&row=3" width="100%" />
 
 </td>
@@ -540,14 +625,14 @@ Next Target: Professional Cloud Architect
 ### 📊 **Coding Metrics**
 
 ```yaml
-Total Commits: 1000+ 
+Total Commits: 1000+
 Active Repos: 15+
 Languages: 8+
 Frameworks: 12+
 
 Primary Focus:
   - Java Development: 40%
-  - Frontend React: 30% 
+  - Frontend React: 30%
   - Cloud & DevOps: 20%
   - Learning & R&D: 10%
 
@@ -571,14 +656,16 @@ Productivity Stats:
 <td width="50%">
 
 **🎯 Current Year Goals**
+
 - [ ] Complete Advanced Spring Boot Course
-- [ ] Deploy 5 Full-Stack Projects  
+- [ ] Deploy 5 Full-Stack Projects
 - [ ] Earn Google Cloud Professional Certification
 - [ ] Contribute to 10 Open Source Projects
 - [x] Master React Performance Optimization
 - [x] Complete 100 Days of Java Challenge
 
 **📈 Growth Metrics**
+
 - **Code Quality:** Increased by 25% this year
 - **Project Completion:** 8 major projects delivered
 - **Learning Velocity:** 3 new technologies mastered
@@ -597,14 +684,15 @@ const developerProfile = {
     problemSolving: "95%",
     codeQuality: "90%",
     teamwork: "95%",
-    learning: "100%"
+    learning: "100%",
   },
   currentProject: "Enterprise Java Application",
-  nextGoal: "System Design Mastery"
+  nextGoal: "System Design Mastery",
 };
 ```
 
 **⚡ Recent Activity Highlights**
+
 - 🚀 Deployed React + Spring Boot app
 - 📚 Completed Microservices architecture study
 - 🛠️ Optimized database queries (40% performance boost)
@@ -618,10 +706,9 @@ const developerProfile = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-
 <div align="center">
 
-### ✨ *Thank You for Visiting!* ✨
+### ✨ _Thank You for Visiting!_ ✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let's+build+the+future+together;Always+open+to+collaborate!" alt="Thanks" />
 
@@ -633,7 +720,7 @@ const developerProfile = {
 
 <br><br>
 
-> ### 💭 *"Code is poetry written in logic, and every bug is just a plot twist waiting for resolution."*
+> ### 💭 _"Code is poetry written in logic, and every bug is just a plot twist waiting for resolution."_
 
 <br>
 
@@ -665,3 +752,4 @@ const developerProfile = {
 <sub>💡 This README was crafted with ❤️, lots of ☕, and a passion for beautiful code | Last updated: July 2025 🚀</sub>
 
 </div>
+
