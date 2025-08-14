@@ -1,648 +1,150 @@
-<!--
-  Professional GitHub Profile README for Piyush Soni
-  Modern, recruiter-friendly, and clean Markdown structure
--->
+<!-- ===== HEADER SECTION ===== -->
+<div align="center">
 
-# Piyush Soni
-
-**Full Stack Developer | Cloud Enthusiast | Java & React Specialist**
-
-<p align="left">
-<img src="https://img.shields.io/badge/Location-India-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Email-piiyush.sonii@outlook.com-red?style=flat-square" />
-<img src="https://img.shields.io/badge/Portfolio-piyushportfolio.live-green?style=flat-square" />
-<img src="https://img.shields.io/badge/LinkedIn-piyush64bit-blue?style=flat-square&logo=linkedin" />
-</p>
-
----
-
-## 👋 About Me
-
-I'm **Piyush Soni**, a passionate developer who transforms ideas into digital reality. I specialize in building scalable, high-quality web applications using Java, Spring Boot, React, and cloud technologies. I thrive in collaborative environments and love solving real-world problems with code.
-
----
-
-## 🚀 Why Hire Me?
-
-- **Proven Full Stack Skills:** Java, Spring Boot, React, Next.js, TypeScript
-- **Cloud Ready:** Google Cloud, Docker, Kubernetes, CI/CD
-- **Clean Code & Best Practices:** Focused on maintainability and performance
-- **Continuous Learner:** Always upskilling and adapting to new tech
-- **Strong Communicator:** Experience working in diverse, distributed teams
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Java, JavaScript, TypeScript, C, C++, SQL  
-**Frameworks:** Spring Boot, React, Next.js, Express.js  
-**Cloud & DevOps:** Google Cloud, Docker, Kubernetes, GitHub Actions  
-**Databases:** MySQL, MongoDB, PostgreSQL  
-**Tools:** VS Code, IntelliJ, Git, Postman, Figma
-
----
-
-## � Achievements
-
-- **Full Stack Development - Certified** (Groot Software Academy)
-- **Google Cloud Arcade Level 3**
-- **100 Days of Java Challenge - Completed**
-- **Open Source Contributor**
-
----
-
-## 📈 GitHub Stats
-
+<!-- Animated Terminal Header --><!-- Anime GIF -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=radical" height="150" />
+  <img src="https://media.tenor.com/DiwpXc-15XwAAAAi/hello-hi.gif" width="200" alt="coding meme" />
 </p>
 
----
+<br/>
 
-## 💼 Projects
-
-- [C-Programs](https://github.com/Piyush64-bit/C-Programs): Foundation-level C programming
-- [CPP-Programs](https://github.com/Piyush64-bit/CPP-Programs): Advanced C++ and DSA
-- [Java-Programs](https://github.com/Piyush64-bit/Java-Programs): 100 Days of Java
-- [AdvanceJava-Programs](https://github.com/Piyush64-bit/AdvanceJava-Programs): Enterprise Java, Spring Boot
-
----
-
-## 📚 Learning & Growth
-
-- **Currently Learning:** Microservices, Advanced Cloud, System Design
-- **Focus Areas:** Performance Optimization, Design Patterns, DevOps
-
----
-
-## 📬 Contact
-
-- **Email:** piiyush.sonii@outlook.com
-- **LinkedIn:** [piyush64bit](https://www.linkedin.com/in/piyush64bit)
-- **Portfolio:** [piyushportfolio.live](https://piyushportfolio.live)
-
----
-
-<sub>Last updated: August 2025</sub>
-
-<!-- Cyberpunk Style Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Piyush!;Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver;Tech+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
-
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-
-<!-- Hacker-style Profile Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="coding animation" />
-
-<!-- Tech Stack Ticker -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=ðŸ’»+Currently+debugging+life+with+coffee;âš¡+Powered+by+Java%2C+Spring+%26+React;ðŸš€+Building+the+future%2C+one+commit+at+a+time;ðŸ”¥+Making+computers+do+magical+things" alt="Tech Ticker" />
-
-<!-- Gradient Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Profile Views with Animation -->
-<img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="profile views" />
-
-<!-- Social Media Preview -->
-<p>
-  <a href="https://piyushportfolio.live"><img src="https://img.shields.io/badge/ðŸŒ_Portfolio-Visit-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=16213e" /></a>
-  <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
-  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
+<!-- Profile Badge (with spacing below) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=plastic" alt="piyush64-bit" width="150" />
 </p>
 
-<!-- Live Stats Dashboard -->
-<img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000000,130F40&title_color=FF6B6B&text_color=FFFFFF&icon_color=0E75B6" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=synthwave&hide_border=true&background=130F40" height="150" />
 
-<!-- Current Status Indicators -->
-<br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=ðŸŸ¢+Status%3A+Online+%7C+Currently+coding+in+Java;âš¡+Last+commit%3A+Making+magic+happen;ðŸ”§+Working+on%3A+Enterprise+Spring+Boot+app;â˜•+Coffee+levels%3A+99%25+%7C+Productivity%3A+MAX" alt="Live Status" />
 
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## âš¡ Live Coding Activity & System Stats
+## 🌿 About Me
 
 <div align="center">
-
-<!-- Terminal Activity Monitor -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=piyush%40dev-machine%3A~%24+htop;Monitoring+real-time+development+activity...;CPU%3A+Java+%7C+Memory%3A+React+%7C+Disk%3A+Code+Commits;Status%3A+Building+the+future...+%F0%9F%9A%80" alt="Activity Monitor" />
-
+  <img src="./Assets/profile.png" alt="Piyush's Profile Picture" width="200" style="border-radius: 50%; border: 4px solid #0e75b6;" />
 </div>
 
-<!-- Live Metrics Dashboard -->
-<table>
-<tr>
-<td width="33%" align="center">
-
-### ðŸ”¥ **Current Sprint**
-<img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=FF6B6B&text_color=FFFFFF&icon_color=00FF41" height="180" />
-
-</td>
-<td width="33%" align="center">
-
-### ðŸ“Š **Language Usage**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=FF6B6B&text_color=FFFFFF" height="180" />
-
-</td>
-<td width="33%" align="center">
-
-### ðŸš€ **Contribution Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=synthwave&hide_border=true&background=000428&ring=FF6B6B&fire=00FF41&currStreakLabel=FF6B6B" height="180" />
-
-</td>
-</tr>
-</table>
-
-<!-- Real-time System Monitor -->
-<div align="center">
-
-### ðŸ’» **System Resource Monitor**
-```bash
-â•­â”€ piyush@dev-machine ~/projects
-â•°â”€$ system_monitor --live
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
-â”‚ Process Monitor                                  [â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ] â”‚
-â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
-â”‚ â˜• Coffee Levels:     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 95%         â”‚
-â”‚ ðŸ§  Creativity:       â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ   88%          â”‚
-â”‚ ðŸ’¡ Problem Solving:  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 98%         â”‚
-â”‚ ðŸš€ Productivity:     â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ  92%          â”‚
-â”‚ ðŸ”¥ Passion:          â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 100%        â”‚
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
-```
-
-<!-- Live Commit Activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=synthwave&bg_color=000428&color=00FF41&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&custom_title=âš¡%20Live%20Commit%20Activity%20-%20Making%20Digital%20Magic!" width="95%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## ðŸ“š Learning Laboratory
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Code+Portfolio;Learning+In+Public;Building+With+Purpose" alt="Projects" />
-
-*These repositories aren't just practice â€” they're my **digital evolution** documented in code.*
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> About Me
-
-<!-- Real-time Terminal Display -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=piyush%40github%3A~%24+cat+about_me.txt;Loading+developer_profile.json...;Initializing+passion_for_code.exe...;Success%21+Ready+to+build+amazing+things!" alt="Terminal About" />
-</div>
-
-<table>
-<tr>
-<td width="40%">
-
-<div align="center">
-  <!-- Animated Developer Avatar -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="250" alt="Developer Animation" />
-  
-  <!-- Dynamic Code Status -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=300&lines=while(alive)%7B+code();+%7D;if(coffee)%7B+productivity%2B%2B;+%7D;System.out.print(%22Hello+World!%22);git+commit+-m+%22life+update%22" alt="Code Status" />
-</div>
-
-</td>
-<td width="60%">
-
-### ðŸš€ Mission Statement
-> *I'm **Piyush** â€” a passionate developer who transforms ideas into digital reality. I don't just write code; I craft experiences that resonate with users and solve real-world challenges.*
-
-<!-- Interactive Terminal Output -->
-<details>
-<summary>ðŸŽ¯ <strong>./run_passion_analysis.sh</strong></summary>
 <br>
 
-```bash
-#!/bin/bash
-# Passion Analysis Script v2.0
+> Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once 😅). Obsessed with turning ideas into real-world apps that actually vibe.
 
-echo "Analyzing developer DNA..."
-passion_level="MAXIMUM"
-coffee_dependency="CRITICAL"
-debugging_skill="LEGENDARY"
-
-echo "Results:"
-```
-
-```javascript
-const piyush = {
-    passion: ["Frontend Wizardry", "Backend Architecture", "Cloud Innovation"],
-    currentFocus: "Building scalable solutions with modern tech",
-    lifePhilosophy: "Code with purpose, learn with curiosity",
-    funFact: "I debug with coffee and deploy with confidence! â˜•",
-    
-    // Tech Stack DNA
-    preferredOS: "Linux > Windows",
-    IDE: "VS Code + IntelliJ IDEA",
-    debuggingMethod: "console.log() && System.out.println()",
-    favoriteBracket: "{ } // Because they hug my code â¤ï¸"
-};
-
-// Recursive learning function
-function continuousLearning() {
-    while(true) {
-        learnNewTech();
-        buildCoolStuff();
-        shareKnowledge();
-    }
-}
-```
-
-**Core Expertise & Power Level:**
-- âš›ï¸ **Frontend Mastery** â†’ React, TypeScript, Next.js `[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ] 95%`
-- â˜• **Backend Engineering** â†’ Java, Spring Boot, APIs `[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘] 90%`
-- ðŸ¬ **Data & Cloud** â†’ MySQL, MongoDB, GCP `[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘] 85%`
-- ðŸš€ **DevOps Culture** â†’ CI/CD, Kubernetes, Docker `[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘] 75%`
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  
-### ðŸ’­ Dev Mantra & Philosophy
-<!-- Matrix-style Code Rain -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=while(coding)%7B+coffee.drink();+%7D;if(bug)%7B+feature++;+%7D+//+it's+not+a+bug;git+commit+-m+%22Magic+happens+here%22;Code+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%94%81;Turning+Coffee+into+Code+since+2022+%E2%98%95" alt="Mantra" />
-
-<!-- Live System Monitor -->
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/System-Online-00FF00?style=for-the-badge&logo=linux&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Coffee-98%25-brown?style=for-the-badge&logo=coffee&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Motivation-MAX-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Code_Quality-Premium-00FF41?style=for-the-badge&logo=codacy&logoColor=white" />
-</td>
-</tr>
-</table>
-
-</div>
-
-<<<<<<< HEAD
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## ðŸŽ¯ Current Focus & Growth
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Technology+Today" alt="Focus" />
-
-</div>
-
-=======
-<!-- Matrix-style Background -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-<!-- Cyberpunk Style T- 🤖 Machine Learning Fundamentalsping  <img src="https://img.shields.io/badge/☁️_Google_Cloud_Profile-Verify_Skills-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=1a73e8&color=34a853"/>-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Piyush!;Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver;Tech+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
-
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
-
-<!-- Hacker-style Profile Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="coding animation" />
-
-<!-- Tech Stack Ticker -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=💻+Currently+debugging+life+with+coffee;⚡+Powered+by+Java%2C+Spring+%26+React;🚀+Building+the+future%2C+one+commit+at+a+time;🔥+Making+computers+do+magical+things" alt="Tech Ticker" />
-
-<!-- Gradient Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Profile Views with Animation -->
-<img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="profile views" />
-
-<!-- Social Media Preview -->
-<p>
-  <a href="https://piyushportfolio.live"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=16213e" /></a>
-  <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
-  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
-</p>
-
-<!-- Live Stats Dashboard -->
-<img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000000,130F40&title_color=FF6B6B&text_color=FFFFFF&icon_color=0E75B6" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=synthwave&hide_border=true&background=130F40" height="150" />
-
-<!-- Current Status Indicators -->
-<br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=🟢+Status%3A+Online+%7C+Currently+coding+in+Java;⚡+Last+commit%3A+Making+magic+happen;🔧+Working+on%3A+Enterprise+Spring+Boot+app;☕+Coffee+levels%3A+99%25+%7C+Productivity%3A+MAX" alt="Live Status" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-## ⚡ Live Coding Activity & System Stats
-
-<div align="center">
-
-<!-- Terminal Activity Monitor -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=piyush%40dev-machine%3A~%24+htop;Monitoring+real-time+development+activity...;CPU%3A+Java+%7C+Memory%3A+React+%7C+Disk%3A+Code+Commits;Status%3A+Building+the+future...+%F0%9F%9A%80" alt="Activity Monitor" />
-
-</div>
-
-<!-- Live Metrics Dashboard -->
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🔥 **Current Sprint**
-<img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=FF6B6B&text_color=FFFFFF&icon_color=00FF41" height="180" />
-
-</td>
-<td width="33%" align="center">
-
-### 📊 **Language Usage**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=synthwave&hide_border=true&bg_color=0,000428,004e92&title_color=FF6B6B&text_color=FFFFFF" height="180" />
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 **Contribution Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=synthwave&hide_border=true&background=000428&ring=FF6B6B&fire=00FF41&currStreakLabel=FF6B6B" height="180" />
-
-</td>
-</tr>
-</table>
-
-<!-- Real-time System Monitor -->
-<div align="center">
-
-### 💻 **System Resource Monitor**
-```bash
-╭─ piyush@dev-machine ~/projects
-╰─$ system_monitor --live
-┌─────────────────────────────────────────────────────────────┐
-│ Process Monitor                                  [██████████] │
-├─────────────────────────────────────────────────────────────┤
-│ ☕ Coffee Levels:     ████████████████████████ 95%         │
-│ 🧠 Creativity:       ██████████████████████   88%          │
-│ 💡 Problem Solving:  ████████████████████████ 98%         │
-│ 🚀 Productivity:     ███████████████████████  92%          │
-│ 🔥 Passion:          ████████████████████████ 100%        │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<!-- Live Commit Activity -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyush64-bit&theme=synthwave&bg_color=000428&color=00FF41&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&custom_title=⚡%20Live%20Commit%20Activity%20-%20Making%20Digital%20Magic!" width="95%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-## 📚 Learning Laboratory
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Code+Portfolio;Learning+In+Public;Building+With+Purpose" alt="Projects" />
-
-*These repositories aren't just practice — they're my **digital evolution** documented in code.*
-
-</div>
-
-<!-- Hacker-style Profile Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="coding animation" />
-
-<!-- Tech Stack Ticker -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=💻+Currently+debugging+life+with+coffee;⚡+Powered+by+Java%2C+Spring+%26+React;🚀+Building+the+future%2C+one+commit+at+a+time;🔥+Making+computers+do+magical+things" alt="Tech Ticker" />
-
-<!-- Gradient Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- Profile Views with Animation -->
-<img src="https://komarev.com/ghpvc/?username=piyush64-bit&label=Profile+Views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="profile views" />
-
-<!-- Social Media Preview -->
-<p>
-  <a href="https://piyushportfolio.live"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=16213e" /></a>
-  <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" /></a>
-  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" /></a>
-</p>
-
-<!-- Live Stats Dashboard -->
-<img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=synthwave&hide_border=true&bg_color=0,000000,130F40&title_color=FF6B6B&text_color=FFFFFF&icon_color=0E75B6" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=synthwave&hide_border=true&background=130F40" height="150" />
-
-<!-- Current Status Indicators -->
-<br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=1000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=🟢+Status%3A+Online+%7C+Currently+coding+in+Java;⚡+Last+commit%3A+Making+magic+happen;🔧+Working+on%3A+Enterprise+Spring+Boot+app;☕+Coffee+levels%3A+99%25+%7C+Productivity%3A+MAX" alt="Live Status" />
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
-
-<!-- Real-time Terminal Display -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=piyush%40github%3A~%24+cat+about_me.txt;Loading+developer_profile.json...;Initializing+passion_for_code.exe...;Success%21+Ready+to+build+amazing+things!" alt="Terminal About" />
-</div>
-
-<table>
-<tr>
-<td width="40%">
-
-<div align="center">
-  <!-- Animated Developer Avatar -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="250" alt="Developer Animation" />
-  
-  <!-- Dynamic Code Status -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=0E75B6&center=true&vCenter=true&width=300&lines=while(alive)%7B+code();+%7D;if(coffee)%7B+productivity%2B%2B;+%7D;System.out.print(%22Hello+World!%22);git+commit+-m+%22life+update%22" alt="Code Status" />
-</div>
-
-</td>
-<td width="60%">
-
-### 🚀 Mission Statement
-> *I'm **Piyush** — a passionate developer who transforms ideas into digital reality. I don't just write code; I craft experiences that resonate with users and solve real-world challenges.*
-
-<!-- Interactive Terminal Output -->
 <details>
-<summary>🎯 <strong>./run_passion_analysis.sh</strong></summary>
-<br>
-
-```bash
-#!/bin/bash
-# Passion Analysis Script v2.0
-
-echo "Analyzing developer DNA..."
-passion_level="MAXIMUM"
-coffee_dependency="CRITICAL"
-debugging_skill="LEGENDARY"
-
-echo "Results:"
-```
-
-```javascript
-const piyush = {
-    passion: ["Frontend Wizardry", "Backend Architecture", "Cloud Innovation"],
-    currentFocus: "Building scalable solutions with modern tech",
-    lifePhilosophy: "Code with purpose, learn with curiosity",
-    funFact: "I debug with coffee and deploy with confidence! ☕",
-    
-    // Tech Stack DNA
-    preferredOS: "Linux > Windows",
-    IDE: "VS Code + IntelliJ IDEA",
-    debuggingMethod: "console.log() && System.out.println()",
-    favoriteBracket: "{ } // Because they hug my code ❤️"
-};
-
-// Recursive learning function
-function continuousLearning() {
-    while(true) {
-        learnNewTech();
-        buildCoolStuff();
-        shareKnowledge();
-    }
-}
+<summary>🎯 <strong>What drives me</strong></summary>
 ```
 
 **Core Expertise & Power Level:**
 - ⚛️ **Frontend Mastery** → React, TypeScript, Next.js `[████████████] 95%`
 - ☕ **Backend Engineering** → Java, Spring Boot, APIs `[██████████░] 90%`
 - 🐬 **Data & Cloud** → MySQL, MongoDB, GCP `[████████░░░] 85%`
-- 🚀 **DevOps Culture** → CI/CD, Kubernetes, Docker `[███████░░░░] 75%`
-
-</details>
-
 </td>
-</tr>
-</table>
-
+<!-- ===== HEADER SECTION ===== -->
 <div align="center">
-  
-### 💭 Dev Mantra & Philosophy
-<!-- Matrix-style Code Rain -->
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30%">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=while(coding)%7B+coffee.drink();+%7D;if(bug)%7B+feature++;+%7D+//+it's+not+a+bug;git+commit+-m+%22Magic+happens+here%22;Code+%E2%86%92+Test+%E2%86%92+Deploy+%E2%86%92+Repeat+%F0%9F%94%81;Turning+Coffee+into+Code+since+2022+%E2%98%95" alt="Mantra" />
-
-<!-- Live System Monitor -->
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/System-Online-00FF00?style=for-the-badge&logo=linux&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Coffee-98%25-brown?style=for-the-badge&logo=coffee&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Motivation-MAX-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Code_Quality-Premium-00FF41?style=for-the-badge&logo=codacy&logoColor=white" />
-</td>
-</tr>
-</table>
-
+  <img src="./Assets/profile.png" alt="Piyush's Profile Picture" width="180" style="border-radius: 50%; border: 3px solid #0e75b6;" />
+  <br/>
+  <h1>Hi, I'm <span style="color:#0e75b6">Piyush Soni</span> 👋</h1>
+  <b>Java Full Stack Developer</b> <br/>
+  <em>AI | Web Development | Open Source</em>
+  <br><br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge&logo=ai&logoColor=white"/>
+  <br><br>
+  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-piiyush.sonii@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-piyush64bit-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Piyush64-bit"><img src="https://img.shields.io/badge/GitHub-piyush64--bit-181717?style=flat-square&logo=github"/></a>
+  <a href="https://piyushportfolio.live"><img src="https://img.shields.io/badge/Portfolio-piyushportfolio.live-0e75b6?style=flat-square"/></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-## 🎯 Current Focus & Growth
+## 🌿 About Me
 
-<div align="center">
+Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once �). Obsessed with turning ideas into real-world apps that actually vibe. I love working on AI, web development, and open source projects. My approach combines clean code, creative problem-solving, and a drive for continuous learning.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Building+Tomorrow's+Technology+Today" alt="Focus" />
+---
 
-</div>
+## � What I Do
 
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
-<!-- Progress Cards -->
-<table>
-<tr>
+|  |  |
+|---|---|
+| **Languages** | Java, JavaScript, HTML5, CSS3, SQL |
+| **Frameworks** | Spring Boot, React.js, Node.js, Express.js |
+| **Databases** | MySQL, MongoDB |
+| **DevOps & Tools** | Git, GitHub, Docker, Postman, VS Code, IntelliJ |
+| **AI & ML** | OpenAI, LangChain, ML basics |
+| **Certifications** | Full Stack (Groot Academy), Google Cloud Arcade, Java 100 Days |
+| **Soft Skills** | Teamwork, Communication, Problem Solving, Mentoring |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piyush64-bit&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush64-bit&layout=compact&theme=default" height="150"/>
+</p>
+
+---
+
+## 🏅 Badges & Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Java-Expert-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-Pro-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/React.js-Advanced-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-Arcade_Level_3-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/100_Days_Java-Challenge-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-brightgreen?style=flat-square"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 Exploring AI & ML for smarter web apps
+- 🚀 Deepening Spring Boot & cloud deployment skills
+- 🌐 Building open source tools and collaborating with the community
+- 📚 Learning advanced system design and scalable architectures
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [C-Programs](https://github.com/Piyush64-bit/C-Programs) | Foundation-level C programming | C |
+| [CPP-Programs](https://github.com/Piyush64-bit/CPP-Programs) | Advanced C++ and DSA | C++ |
+| [Java-Programs](https://github.com/Piyush64-bit/Java-Programs) | 100 Days of Java | Java |
+| [AdvanceJava-Programs](https://github.com/Piyush64-bit/AdvanceJava-Programs) | Enterprise Java, Spring Boot | Java, Spring Boot |
+
+---
+
+## 🤝 Let’s Connect
+
+<p>
+  <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-piiyush.sonii@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-piyush64bit-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Piyush64-bit"><img src="https://img.shields.io/badge/GitHub-piyush64--bit-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://piyushportfolio.live"><img src="https://img.shields.io/badge/Portfolio-piyushportfolio.live-0e75b6?style=for-the-badge"/></a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Made with ❤️ | Last updated: August 2025 | Looks great in both light & dark mode</sub>
+</p>
 <td width="50%" align="center">
 
-<<<<<<< HEAD
-### ðŸ“š **Learning Journey**
-=======
-### 📚 **Learning Journey**
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts" alt="Current Learning Stack" />
-
-```yaml
-<<<<<<< HEAD
-Advanced Java: â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘ 95%
-Spring Boot:   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘ 80%
-React Mastery: â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘ 85%
-Cloud-Native:  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘ 60%
-```
-
-**Focus Areas:**
-- ðŸ—ï¸ **Microservices Architecture**
-- âš¡ **Performance Optimization**  
-- ðŸ”§ **Advanced Design Patterns**
-=======
-Advanced Java: ████████████░ 95%
-Spring Boot:   ██████████░░░ 80%
-React Mastery: ███████████░░ 85%
-Cloud-Native:  ███████░░░░░░ 60%
-```
-
-**Focus Areas:**
-- 🏗️ **Microservices Architecture**
-- ⚡ **Performance Optimization**  
-- 🔧 **Advanced Design Patterns**
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
-
-</td>
-<td width="50%" align="center">
-
-<<<<<<< HEAD
-### â˜ï¸ **Cloud Expedition**
-=======
 ### ☁️ **Cloud Expedition**
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 
 <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,terraform" alt="Cloud Stack" />
 
 ```yaml
-<<<<<<< HEAD
-Google Cloud:  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘ 70%
-Kubernetes:    â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘ 50%
-Infrastructure: â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘ 60%
-DevOps:        â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘ 65%
-```
-
-**Achievements:**
-- ðŸŒŸ **GCP Arcade Level 3** Completed
-- ðŸ›¡ï¸ **IAM & VPC** Certified
-- âš™ï¸ **Compute Engine** Expert
-=======
 Google Cloud:  ████████░░░░░ 70%
 Kubernetes:    ██████░░░░░░░ 50%
 Infrastructure: ███████░░░░░░ 60%
@@ -653,7 +155,6 @@ DevOps:        ████████░░░░░ 65%
 - 🌟 **GCP Arcade Level 3** Completed
 - 🛡️ **IAM & VPC** Certified
 - ⚙️ **Compute Engine** Expert
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 
 </td>
 </tr>
@@ -665,14 +166,8 @@ DevOps:        ████████░░░░░ 65%
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<<<<<<< HEAD
----
-
-## ðŸ§° Technology Arsenal & Weapon Cache
-=======
 
 ## 🧰 Technology Arsenal & Weapon Cache
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 
 <div align="center">
 
@@ -687,15 +182,9 @@ DevOps:        ████████░░░░░ 65%
 <!-- Real-time Skills Dashboard -->
 <div align="center">
 
-<<<<<<< HEAD
-### ðŸ’» **Active Tech Stack Monitor**
-```yaml
-System Status: [ONLINE] â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 100%
-=======
 ### 💻 **Active Tech Stack Monitor**
 ```yaml
 System Status: [ONLINE] ████████████████████ 100%
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 Last Updated: July 2025
 Performance: OPTIMIZED
 Skill Tree: EXPANDING
@@ -727,21 +216,6 @@ Skill Tree: EXPANDING
 </tr>
 </table>
 
-<<<<<<< HEAD
-### ðŸŽ¨ **Frontend Universe**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" alt="Frontend Skills" />
-
-### ðŸ› ï¸ **Backend Powerhouse**  
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,hibernate,maven" alt="Backend Skills" />
-
-### ðŸ—„ï¸ **Data Storage**
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" alt="Database Skills" />
-
-### â˜ï¸ **Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,git,github,netlify,postman" alt="Cloud Skills" />
-
-### ðŸŽ¯ **Tools & Design**
-=======
 ### 🎨 **Frontend Universe**
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma" alt="Frontend Skills" />
 
@@ -755,29 +229,20 @@ Skill Tree: EXPANDING
 <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,git,github,netlify,postman" alt="Cloud Skills" />
 
 ### 🎯 **Tools & Design**
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 <img src="https://skillicons.dev/icons?i=vscode,idea,figma,canva,linux,bash" alt="Tools" />
 
 </div>
 
 <!-- Interactive Skill Cards -->
 <details>
-<<<<<<< HEAD
-<summary>ï¿½ <strong>Detailed Skill Breakdown</strong></summary>
-=======
 <summary>� <strong>Detailed Skill Breakdown</strong></summary>
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 <br>
 
 <table>
 <tr>
 <td width="50%">
 
-<<<<<<< HEAD
-**ðŸŽ¨ Frontend Mastery**
-=======
 **🎨 Frontend Mastery**
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 ```javascript
 const frontendSkills = {
   languages: ["JavaScript", "TypeScript", "HTML5", "CSS3"],
@@ -787,11 +252,7 @@ const frontendSkills = {
 };
 ```
 
-<<<<<<< HEAD
-**ðŸ› ï¸ Backend Engineering**
-=======
 **🛠️ Backend Engineering**
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 ```java
 public class BackendExpertise {
   private String[] languages = {"Java", "JavaScript"};
@@ -804,11 +265,7 @@ public class BackendExpertise {
 </td>
 <td width="50%">
 
-<<<<<<< HEAD
-**â˜ï¸ Cloud & Infrastructure**
-=======
 **☁️ Cloud & Infrastructure**
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 ```yaml
 Cloud Platforms:
   - Google Cloud Platform (GCP)
@@ -826,11 +283,7 @@ Deployment:
   - Load Balancing
 ```
 
-<<<<<<< HEAD
-**ðŸ“Š Development Workflow**
-=======
 **📊 Development Workflow**
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 ```mermaid
 graph LR
   A[Code] --> B[Test]
@@ -848,10 +301,6 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<<<<<<< HEAD
----
-
-=======
 ## � Learning Laboratory
 
 <div align="center">
@@ -953,15 +402,9 @@ public class WebDevelopment {
 </td>
 </tr>
 </table>
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 
 <div align="center">
 
-<<<<<<< HEAD
-<div align="center">
-
-### âœ¨ *Thank You for Visiting!* âœ¨
-=======
 ### 📈 **Learning Analytics**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush64-bit&theme=dark&hide_border=true&border_radius=15&background=0D1117&ring=0E75B6&fire=FF6B6B&currStreakLabel=0E75B6" width="60%" />
@@ -975,42 +418,9 @@ public class WebDevelopment {
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Milestones+%26+Certifications;Professional+Growth;Continuous+Learning" alt="Achievements" />
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!;Let's+build+the+future+together;Always+open+to+collaborate!" alt="Thanks" />
+</div>
 
-<<<<<<< HEAD
-<!-- Animated Terminal Farewell -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=piyush%40github%3A~%24+exit;Connection+to+piyush's+profile+closed.;Thanks+for+the+visit!+Come+back+soon+%F0%9F%91%8B;%3E+git+clone+https%3A//github.com/piyush64-bit;%3E+Remember%3A+Code+is+poetry+in+motion+%F0%9F%9A%80" alt="Terminal Farewell" />
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="80%" />
-
-<br><br>
-
-> ### ðŸ’­ *"Code is poetry written in logic, and every bug is just a plot twist waiting for resolution."*
-
-<br>
-
-**ðŸš€ Ready to transform ideas into digital reality? Let's connect and create something extraordinary! ðŸš€**
-
-<br>
-
-<!-- Tech Stats Footer -->
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Made%20with-â¤ï¸%20%26%20â˜•-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Powered%20by-Passion-00FF41?style=for-the-badge&logo=lightning&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Debugged%20with-Coffee-brown?style=for-the-badge&logo=coffee&logoColor=white" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Deployed%20with-Confidence-0E75B6?style=for-the-badge&logo=rocket&logoColor=white" />
-=======
 <table>
 <tr>
 <td width="50%" align="center">
@@ -1167,18 +577,10 @@ Next Target: Professional Cloud Architect
 
 **Join my tech journey & updates!**
 
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 </td>
 </tr>
 </table>
 
-<<<<<<< HEAD
-<!-- Footer Matrix Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<sub>ðŸ’¡ This README was crafted with â¤ï¸, lots of â˜•, and a passion for beautiful code | Last updated: July 2025 ðŸš€</sub>
-
-=======
 <div align="center">
 
 ### 🌟 **Portfolio Showcase**
@@ -1370,5 +772,4 @@ const developerProfile = {
 
 <sub>💡 This README was crafted with ❤️, lots of ☕, and a passion for beautiful code | Last updated: July 2025 🚀</sub>
 
->>>>>>> 16ed0deadfc23a6d8b2628d15b2a5162fade8976
 </div>
