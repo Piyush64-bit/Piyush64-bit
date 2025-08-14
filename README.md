@@ -47,7 +47,7 @@ Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once �).
 ---
 
 <details>
-<summary>🎯 <strong>What drives me</strong></summary>
+<summary>🎯 <strong>More Details</strong></summary>
 <br>
 
 ## 🚀 What I Do
