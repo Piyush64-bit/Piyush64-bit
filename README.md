@@ -18,19 +18,21 @@
   <img src="./Assets/profile.png" alt="Piyush's Profile Picture" width="180" style="border-radius: 50%; border: 3px solid #0e75b6;" />
   <br/>
   <h1>Hi, I'm <span style="color:#0e75b6">Piyush Soni</span> 👋</h1>
-  <b>Java Full Stack Developer</b> <br/>
-  <em>AI | Web Development | Open Source</em>
+  <b>MERN Stack Developer</b> <br/>
+  <em>AI/ML Explorer | Web Development | Open Source | Java (Backup)</em>
   <br><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-6A1B9A?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI/ML-6A1B9A?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <br><br>
   <a href="mailto:piiyush.sonii@outlook.com"><img src="https://img.shields.io/badge/Email-piiyush.sonii@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/piyush64bit"><img src="https://img.shields.io/badge/LinkedIn-piyush64bit-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -42,7 +44,7 @@
 
 ## 🌿 About Me
 
-Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once �). Obsessed with turning ideas into real-world apps that actually vibe. I love working on AI, web development, and open source projects. My approach combines clean code, creative problem-solving, and a drive for continuous learning.
+Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once 😅). My main playground is the **MERN stack** (MongoDB, Express, React, Node.js) where I craft full-stack apps with a dash of personality. I’m also passionate about integrating **AI/ML** into real-world projects and love exploring new tech. Java is my strong backup (Core + Advanced), so I can jump into JVM land whenever needed. I thrive on clean code, creative problem-solving, and learning in public!
 
 ---
 
@@ -54,12 +56,12 @@ Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once �).
 
 |                    |                                                                |
 | ------------------ | -------------------------------------------------------------- |
-| **Languages**      | Java, JavaScript, HTML5, CSS3, SQL                             |
-| **Frameworks**     | Spring Boot, React.js, Node.js, Express.js                     |
-| **Databases**      | MySQL, MongoDB                                                 |
+| **Languages**      | JavaScript, TypeScript, HTML5, CSS3, Java (backup), SQL        |
+| **Frameworks**     | MERN (MongoDB, Express.js, React.js, Node.js), Spring Boot     |
+| **Databases**      | MongoDB, MySQL                                                 |
 | **DevOps & Tools** | Git, GitHub, Docker, Postman, VS Code, IntelliJ                |
 | **AI & ML**        | OpenAI, LangChain, ML basics                                   |
-| **Certifications** | Full Stack (Groot Academy), Google Cloud Arcade, Java 100 Days |
+| **Certifications** | MERN Bootcamps, Full Stack (Groot Academy), Java 100 Days, Google Cloud Arcade |
 | **Soft Skills**    | Teamwork, Communication, Problem Solving, Mentoring            |
 
 ---
@@ -89,8 +91,9 @@ Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once �).
 
 ## 🎯 Current Focus
 
-- 🤖 Exploring AI & ML for smarter web apps
-- 🚀 Deepening Spring Boot & cloud deployment skills
+- 🟢 Building and scaling MERN stack projects (my main jam!)
+- 🤖 Integrating AI/ML into web apps and side projects
+- ☕ Keeping my Java (Core + Advanced) skills sharp for JVM adventures
 - 🌐 Building open source tools and collaborating with the community
 - 📚 Learning advanced system design and scalable architectures
 
@@ -102,8 +105,8 @@ Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once �).
 | ---------------------------------------------------------------------------- | ------------------------------ | ----------------- |
 | [C-Programs](https://github.com/Piyush64-bit/C-Programs)                     | Foundation-level C programming | C                 |
 | [CPP-Programs](https://github.com/Piyush64-bit/CPP-Programs)                 | Advanced C++ and DSA           | C++               |
-| [Java-Programs](https://github.com/Piyush64-bit/Java-Programs)               | 100 Days of Java               | Java              |
-| [AdvanceJava-Programs](https://github.com/Piyush64-bit/AdvanceJava-Programs) | Enterprise Java, Spring Boot   | Java, Spring Boot |
+| [Java-Programs](https://github.com/Piyush64-bit/Java-Programs)               | 100 Days of Java (backup stack) | Java              |
+| [AdvanceJava-Programs](https://github.com/Piyush64-bit/AdvanceJava-Programs) | Enterprise Java, Spring Boot (backup) | Java, Spring Boot |
 
 ---
 
