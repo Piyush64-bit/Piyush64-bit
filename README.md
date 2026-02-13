@@ -17,7 +17,7 @@
 <div align="center">
   <img src="./Assets/profile.png" alt="Piyush's Profile Picture" width="180" style="border-radius: 50%; border: 3px solid #0e75b6;" />
   <br/>
-  <h1>Hi, I'm <span style="color:#0e75b6">Piyush Soni</span> 👋</h1>
+  <h1>Hi, I'm <span style="color:#0e75b6">Piyush Soni</span> </h1>
   <b>MERN Stack Developer</b> <br/>
   <em>AI/ML Explorer | Web Development | Open Source | Java (Backup)</em>
   <br><br>
@@ -42,17 +42,19 @@
 
 ---
 
-## 🌿 About Me
+## About Me
 
-Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once 😅). My main playground is the **MERN stack** (MongoDB, Express, React, Node.js) where I craft full-stack apps with a dash of personality. I’m also passionate about integrating **AI/ML** into real-world projects and love exploring new tech. Java is my strong backup (Core + Advanced), so I can jump into JVM land whenever needed. I thrive on clean code, creative problem-solving, and learning in public!
+Hey, I'm **Piyush** — a full-stack developer who loves building impactful applications and tackling interesting problems. I specialize in the **MERN** stack (MongoDB, Express, React, Node.js), where I build scalable, user-focused web applications from the ground up.
+I'm really passionate about integrating AI/ML into real-world projects and I'm always exploring new technologies to expand my toolkit. I care deeply about writing clean, maintainable code and finding creative solutions to complex challenges.
+Always learning, always building, and always excited to contribute to projects that make a difference
 
 ---
 
 <details>
-<summary>🎯 <strong>More Details</strong></summary>
+<summary> <strong>More Details</strong></summary>
 <br>
 
-## 🚀 What I Do
+##  What I Do
 
 |                    |                                                                |
 | ------------------ | -------------------------------------------------------------- |
@@ -66,9 +68,9 @@ Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once 😅)
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
-### 🔹 VENUE – Event & Movie Booking Platform  
+### VENUE – Event & Movie Booking Platform  
 **Tech:** MongoDB, Express.js, React.js, Node.js  
 
 - Multi-role system (User / Organizer / Admin)  
@@ -78,7 +80,7 @@ Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once 😅)
 
 ---
 
-### 🔹 Quick Screen – Real-Time Screen Sharing App  
+### Quick Screen – Real-Time Screen Sharing App  
 **Tech:** React.js, Node.js, WebRTC, Socket.io  
 
 - No sign-in required  
@@ -88,4 +90,4 @@ Hey! I'm **Piyush** — I build, break & ship stuff (sometimes all at once 😅)
 
 ---
 
-⭐ Open to **Full Stack Developer / MERN Stack Developer** roles
+ Open to **Full Stack Developer / MERN Stack Developer** roles
